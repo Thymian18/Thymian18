@@ -22,9 +22,9 @@
 
 
 ### :man_technologist: About Me :
-I am a computer science student, doing my bachelor at EPFL. 
+I am a 3rd year bachelor computer science student at EPFL. 
 
-
+<br/><br/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -38,7 +38,7 @@ I am a computer science student, doing my bachelor at EPFL.
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi"  alt="Raspberry Pi" width="40" height="40"/>&nbsp;
 </div>
 
-
+<br/><br/>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thymian18&theme=dark&background=000000)](https://git.io/streak-stats)
