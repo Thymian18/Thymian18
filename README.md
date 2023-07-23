@@ -22,7 +22,7 @@
 
 
 ### :man_technologist: About Me :
-I am a 3rd year bachelor computer science student at EPFL. 
+I am a 1st year master computer science student at EPFL. I did the bachelor at EPFL too. 
 
 <br/><br/>
 
