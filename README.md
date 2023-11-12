@@ -22,7 +22,9 @@
 
 
 ### :man_technologist: About Me :
-I am a 1st year master computer science student at EPFL. I did the bachelor at EPFL too. 
+I am a 1st year master computer science student at EPFL where I already did the bachelor.  
+My key interests are cyber security and machine learning.  
+Feel free to follow me and connect with me on LinkedIn.
 
 <br/><br/>
 
