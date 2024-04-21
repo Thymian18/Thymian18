@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=Thymian18&style=flat-square&color=blue" alt=""/>
   
   <h1>
-    Welcome to the github of Damian Kopp
+    Welcome to the GitHub of Damian Kopp
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
