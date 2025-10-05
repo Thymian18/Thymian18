@@ -42,8 +42,3 @@ Feel free to follow me and connect with me on LinkedIn.
 
 <br/><br/>
 
-### :fire: My Stats :
-<div>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thymian18&theme=dark-smoky&hide_current_streak=true" alt="GitHub Streak" /></a>
-</div>
-
