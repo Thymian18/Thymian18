@@ -43,5 +43,4 @@ Feel free to follow me and connect with me on LinkedIn.
 <br/><br/>
 
 ### :fire: My Stats :
-[comment]: <> ([![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thymian18&theme=dark&background=000000)](https://git.io/streak-stats))
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Thymian18)](https://git.io/streak-stats)
