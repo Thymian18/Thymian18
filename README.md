@@ -22,8 +22,8 @@
 
 
 ### :man_technologist: About Me :
-I am a 2nd year master computer science student at EPFL where I already did the bachelor.  
-My key interests are machine learning, and LLMs and deep learning in particular.  
+I am a master computer science student in his final semester at EPFL where I already did the bachelor. I am currently working on my master thesis as an intern at Touring Club Suisse (TCS).
+My key interests are deep learning and traditional machine learning. 
 Feel free to follow me and connect with me on LinkedIn.
 
 <br/><br/>
