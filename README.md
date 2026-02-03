@@ -11,7 +11,7 @@
     </a>-->
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=Thymian18&style=flat-square&color=blue" alt=""/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=Thymian18&style=flat-square&color=blue" alt=""/>-->
   
   <h1>
     Welcome to the GitHub of Damian Kopp
