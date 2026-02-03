@@ -1,14 +1,14 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/>
+  <!-- <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/> -->
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/damian-kopp-458139242">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://stackoverflow.name/damian-kopp">
+    <!--<a href="https://stackoverflow.name/damian-kopp">
       <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
-    </a>
+    </a>-->
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=Thymian18&style=flat-square&color=blue" alt=""/>
@@ -22,9 +22,9 @@
 
 
 ### :man_technologist: About Me :
-I am a master computer science student in his final semester at EPFL where I already did the bachelor. I am currently working on my master thesis as an intern at Touring Club Suisse (TCS).
-My key interests are deep learning and traditional machine learning. 
-Feel free to follow me and connect with me on LinkedIn.
+I am a master computer science student in his final semester at EPFL where I already did the bachelor. I am currently working on my master thesis as an intern at Touring Club Suisse (TCS). I am open to work, beginning in June 2026.
+My goals are to leave an impact and consistently grow both in my technical abilities and as a person. 
+My bachelor time equipped me with a broad range of computer science fields, including Software Engineering, Databases, Networks, Concurrent Programming, etc. During the master studies, various courses especially in the fields of Cybersecurity and data science gave me the opportunity to learn about state-of-the-art topics, complemented by hands-on exercises and projects.
 
 <br/><br/>
 
@@ -36,6 +36,9 @@ Feel free to follow me and connect with me on LinkedIn.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala"  alt="Scala" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch"  alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi"  alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="InfluxDB"  alt="InfluxDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi"  alt="Raspberry Pi" width="40" height="40"/>&nbsp;
 </div>
