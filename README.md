@@ -22,9 +22,12 @@
 
 
 ### :man_technologist: About Me :
-I am a master computer science student in his final semester at EPFL where I already did the bachelor. I am currently working on my master thesis as an intern at Touring Club Suisse (TCS). I am open to work, beginning in June 2026.
-My goals are to leave an impact and consistently grow both in my technical abilities and as a person. 
-My bachelor time equipped me with a broad range of computer science fields, including Software Engineering, Databases, Networks, Concurrent Programming, etc. During the master studies, various courses especially in the fields of Cybersecurity and data science gave me the opportunity to learn about state-of-the-art topics, complemented by hands-on exercises and projects.
+CS graduate from EPFL (March 2026) — starting my career in June 2026.
+I’m exploring full stack development to understand how real-world systems are built end-to-end, with a particular interest in cybersecurity.
+Background in:
+- Software Engineering, Databases, Networks, Concurrent Programming
+- Cybersecurity & Data Science (master’s focus)
+I care about building impactful software and continuously improving — both as an engineer and as a person.
 
 <br/><br/>
 
