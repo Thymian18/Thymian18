@@ -22,7 +22,6 @@
 
 
 ### :man_technologist: About Me :
-CS graduate from EPFL (March 2026), currently open to roles starting in June 2026.
 I’m exploring full stack development to understand how real-world systems are built end-to-end, with a particular interest in cybersecurity.
 Background in:
 - Software Engineering, Databases, Networks, Concurrent Programming
